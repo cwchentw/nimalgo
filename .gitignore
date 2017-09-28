@@ -1,0 +1,16 @@
+# Any path
+*.swp
+*~
+nimcache/
+.vscode/
+
+# executables from test and build
+tests/denseTest
+
+# Windows executables
+*.exe
+*.dll
+
+# VCC compiler and linker artifacts
+*.ilk
+*.pdb
