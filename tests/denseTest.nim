@@ -24,7 +24,7 @@ suite "Test dense matrix":
 
         check(m[0, 0] == 1)
         check(m[0, 1] == 2)
-        check(m[0, 2] == 3)
+        check(m[0, 2] == 3.0)
         check(m[1, 0] == 2)
         check(m[1, 1] == 3)
         check(m[1, 2] == 4)

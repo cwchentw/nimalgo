@@ -13,4 +13,4 @@ requires "nim >= 0.17.2"
 
 task test, "Run tests":
   withDir "tests":
-    exec "nim c -r *"
+    exec "nim c -r denseTest"
