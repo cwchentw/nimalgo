@@ -1,3 +1,3 @@
-import nimalgo/matrix/dense
+import nimalgo/dense
 
 export dense
