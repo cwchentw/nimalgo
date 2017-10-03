@@ -6,6 +6,7 @@ nimcache/
 
 # executables from test and build
 tests/denseTest
+tests/utilsTest
 
 # Windows executables
 *.exe
